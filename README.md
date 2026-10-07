@@ -26,6 +26,8 @@ Fit: holes and slots usually print 0.1 to 0.2 mm small, and the 0.3 mm default c
 
 Use: screw it down through the flange or clamp the flange. Don't clamp the block across its width in a vise, which squeezes the slot shut. Use a chisel with a straight, slightly rounded edge.
 
+Tested with: [5 mm OD brass tubing](https://www.mcmaster.com/88605K24/) from McMaster-Carr on [Atwood Rope 7-strand mil-spec 550 paracord](https://atwoodrope.com/products/7-strand-paracord-mil-spec), with an anvil printed in PLA at 100% infill. The chisel was a scrap steel strip about 0.4 mm thick, a spring clip like those in [Nielsen metal frame hardware kits](https://www.metroframe.com/nielsen-metal-hardware/). It bent after a few aglets, so a hardened spring-steel strip of similar thickness, such as a feeler-gauge blade, should last longer. Leaving only a few millimeters of the strip above the block also helps keep it from bending.
+
 <img src="images/laced_boots.jpeg" alt="Boots laced with the finished aglets" width="48%">
 
 Modeled in OpenSCAD with AI assistance (Anthropic's Claude); test-printed and used by me. Source .scad included.
