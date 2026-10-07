@@ -16,7 +16,7 @@ Customizable: tubing diameter and hole clearance, chisel thickness and slot clea
   <img src="images/printed_anvil.jpeg" alt="Printed anvil with a steel strip in the slot" width="48%">
 </p>
 
-Customize in your browser: [open the model in OpenSCAD Web GUI](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/AntJLopez/aglet-crimping-anvil/main/aglet_crimping_anvil.scad), with nothing to install. Or download the .scad, open it in OpenSCAD, and change the parameters in the Customizer panel (Window > Customizer).
+Customize in your browser: [open the model in OpenSCAD Playground](https://ochafik.com/openscad2/#H4sIAAAAAAAAA42Qu2rDQBBF/+Wm1QOcImS7QEgRXKQPxkxWI2lhX+zOyrGE/j1IxkWakG64nDkz3AWRErkMtYC0mIk/SEYotDRYlrNOxkXjhzP5ydgma+pQIYeSNGeozwXxH3xJFgqjSMyqbRNdmsHIWL5K5qSDF/bS6ODaFy/vxxB5vtnqu63eba0j4/+4s54q9ExS0v4aLM3XungTPE4V+DuGJG8hOZLDKxTyNOB3/LjHYrFWmAxftlIsXUORbXKhYyi4YsVsi52RkKB6splvPCcoSYUr6JIlODPfk7WCDnbD8dA/d08HjXX9ARX4TGd8AQAA), with nothing to install. Or download the .scad, open it in OpenSCAD, and change the parameters in the Customizer panel (Window > Customizer).
 
 Examples: the examples folder has ready-to-print STLs for 4, 5 and 6 mm tubing, all with a 0.45 mm chisel and the other defaults.
 
